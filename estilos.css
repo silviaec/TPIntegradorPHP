@@ -1,0 +1,38 @@
+input, select {
+	margin-top: 10px;
+	padding: 4px;
+}
+
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.titulo{
+	align-content: center;
+	color: aquamarine
+}
+
+.form {
+  width: 450px;
+}
+p {
+    color:green;
+	size: 14px;
+}
+.delete {
+	color: red;
+}
+.insert {
+	color: blue;
+	
+	justify-content: right;
+}
+.alerta{
+	color: red;
+}
+td {
+	padding: 5px;
+}
